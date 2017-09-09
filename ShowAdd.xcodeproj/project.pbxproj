@@ -12,6 +12,7 @@
 		8FF39AA51F63AC0200854AFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FF39AA31F63AC0200854AFA /* Main.storyboard */; };
 		8FF39AA71F63AC0200854AFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FF39AA61F63AC0200854AFA /* Assets.xcassets */; };
 		8FF39AAA1F63AC0200854AFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FF39AA81F63AC0200854AFA /* LaunchScreen.storyboard */; };
+		8FF39AB21F63C06100854AFA /* coffee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8FF39AB11F63C06100854AFA /* coffee.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8FF39AA61F63AC0200854AFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8FF39AA91F63AC0200854AFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8FF39AAB1F63AC0200854AFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8FF39AB11F63C06100854AFA /* coffee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coffee.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		8FF39A9E1F63AC0200854AFA /* ShowAdd */ = {
 			isa = PBXGroup;
 			children = (
+				8FF39AB11F63C06100854AFA /* coffee.jpg */,
 				8FF39A9F1F63AC0200854AFA /* AppDelegate.swift */,
 				8FF39AA11F63AC0200854AFA /* ViewController.swift */,
 				8FF39AA31F63AC0200854AFA /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FF39AAA1F63AC0200854AFA /* LaunchScreen.storyboard in Resources */,
+				8FF39AB21F63C06100854AFA /* coffee.jpg in Resources */,
 				8FF39AA71F63AC0200854AFA /* Assets.xcassets in Resources */,
 				8FF39AA51F63AC0200854AFA /* Main.storyboard in Resources */,
 			);
